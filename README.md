@@ -49,18 +49,7 @@ The Power BI dashboard includes:
 * Customers with **longer tenure** tend to stay longer
 * Certain **internet services** show higher churn patterns
 
----
-
-## 📸 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-```
-![Dashboard](your-image-file.png)
-```
-
----
-
+--
 ## 📂 Files Included
 
 * `customer_churn_dashboard.pbix` – Power BI Dashboard
@@ -69,23 +58,9 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore the dashboard and insights
-
----
-
 ## 🎯 Project Objective
 
 To help businesses understand customer behavior and reduce churn using data-driven decision making.
-
----
-
-## 👨‍💻 Author
-
-**Pritam Bondre**
 
 ---
 
